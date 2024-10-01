@@ -1,0 +1,88 @@
+.center {
+    width: 50%;
+    margin: 0 auto;
+}
+p {
+    color:aliceblue;
+    width: 500px;
+    border: 1 px solid blueviolet;
+}
+.s {
+    justify-content: center;
+    margin-top: 10px;
+}
+.btn {
+    padding: 10px 20px;
+    background-color: deeppink;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+}
+.btn:hover {
+    background-color: pink;
+}
+.btn2 {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    background-color: deeppink;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.video-container {
+    display: none;
+    margin-top: 20px;
+}
+.btn2:hover {
+    background-color: pink;
+}
+.cat-image {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 150px;
+    height: auto;
+}
+.article {
+    margin-top: 20px;
+}
+.element{
+    margin-top: 10px;
+    width: 500px;
+    padding: 35px 10px;
+    border: 2px solid deeppink;
+}
+.iii {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid deeppink;
+    width: 520px;
+}
+.aaa {
+    color: aliceblue;
+}
+.qwerty {
+    background-color: deeppink;
+}
+.ytrewq {
+    background-color: aliceblue;
+}
+.qwe {
+    background-color: aliceblue;
+}    
+.clearfix::after {
+content: "";
+clear: both;
+display: table;
+}
+.img-left {
+    float: left;
+    margin-right: 15px;
+}
