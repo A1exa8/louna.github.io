@@ -1,3 +1,18 @@
+body {
+    background-color: pink; /* Начальный цвет фона */
+    color: black; /* Начальный цвет текста */
+    font-family: Arial, sans-serif;
+}
+
+button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
 .p {
     background-color: aliceblue;
     padding: 15px 10px;
