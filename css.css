@@ -1,11 +1,7 @@
+
 .center {
     width: 50%;
     margin: 0 auto;
-}
-p {
-    color:aliceblue;
-    width: 500px;
-    border: 1 px solid blueviolet;
 }
 .s {
     justify-content: center;

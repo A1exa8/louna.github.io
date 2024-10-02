@@ -1,3 +1,4 @@
+
  const button = document.querySelector('.btn');
  const catImage = document.getElementById('catImage');
 
